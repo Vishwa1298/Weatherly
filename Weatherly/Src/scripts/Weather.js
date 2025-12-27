@@ -1,6 +1,6 @@
 "use strict";
 
-const API_KEY = "6d94a105615083405e9b03d1d6ae8a3e";
+const API_KEY = "KEEP_YOUR_API";
 let unit = "metric";
 
 function handleEnter(e) {
